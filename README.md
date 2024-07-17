@@ -3,3 +3,4 @@
 
 -Para instalar el sofware deberas ejecutar el siguiente comando:
 ```npm install react```
+SISTEMA DE REGISTRO 2
